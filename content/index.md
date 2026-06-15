@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Major League Baseball Stadiums
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is a tracker of all the Major League Baseball stadiums that I have watched a game at and those I still need to attend.
 
 ## Editing pages
 
