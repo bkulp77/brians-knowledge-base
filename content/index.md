@@ -1,7 +1,15 @@
 ---
 title: Major League Baseball Stadiums
 ---
-## The index page
+## Main Categories
+
+- [[american-league-west/index | American League West]]
+- [[american-league-central/index | American League Central]]
+- [[american-league-east/index | American League East]]
+- [[national-league-west/index | National League West]]
+- [[national-league-central/index | National League Central]]
+- [[national-league-east/index | National League East]]
+
 
 This is a tracker of all the Major League Baseball stadiums that I have watched a game at and those I still need to attend.
 
