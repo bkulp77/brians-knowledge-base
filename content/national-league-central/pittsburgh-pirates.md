@@ -1,6 +1,8 @@
 # Pittsburgh Pirates - PNC Ballpark
 PNC Park was opened in 2001 and replaced the old Three Rivers Stadium. The design was to have a timeless ballpark feel but also have modern elements. I have yet to attend this stadium and it's on my list for my next east coast trip.
 
+> "It looks like they built the city around the ballpark." - Ernie Johnson TBS
+
 ![PNC Ballpark](images/pnc-ballpark.jpeg)
 
 
