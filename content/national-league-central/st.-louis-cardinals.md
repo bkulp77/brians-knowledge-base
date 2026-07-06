@@ -1,6 +1,10 @@
 # St. Louis Cardinals - Busch Stadium
 Busch Stadium opened up for the 2006 season replacing the previous Busch Stadium, this is the third one and offers great views of downtown and the Gateway Arch.  This is one of the few midwest stadiums that I haven't been to yet and is on my list to attend.
 
+> "Freese hits it in the air to center... We will see you tomorrow night!" - Joe Buck
+
+This quote is from the walk off homerun call during game 6 of the 2011 World Series at Busch Stadium.
+
 ![Busch Stadium](images/busch-stadium.jpeg)
 
 
