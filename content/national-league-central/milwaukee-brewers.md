@@ -1,6 +1,10 @@
 # Milwaukee Brewers - American Family Field
 American Family Field, formerly Miller Park is a retractable roof stadium in Milwaukee. It was one of the largest construction projects in Wisconsin history.  The roof can open and close in less than 10 minutes allowing it to be open even if raid is expected later and quickly closed when it arrives.  
 
+> "I must be in the front row!" - Bob Uecker
+
+This quote was famous from the 70's and 80's from Bob Euckers Miller Lite commercials that they put a statute of him in the location of the front row sead in section 422.
+
 ![American Family Field](images/american-family-field.jpeg)
 
 ## Design and Features
