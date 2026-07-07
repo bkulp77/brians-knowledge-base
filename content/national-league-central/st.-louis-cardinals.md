@@ -16,4 +16,9 @@ This quote is from the walk off homerun call during game 6 of the 2011 World Ser
 ### Team Leaders
 
 Visit the home page [National League Central Home Page](index.md)
-or individual team pages: [Chicago Cubs](chicago-cubs.md), [Milwaukee Brewers](milwaukee-brewers.md), [St. Louis Cardinals](st.-louis-cardinals.md), [Pittsburgh Pirates](pittsburgh-pirates.md), or [Cincinnati Reds](cincinnati-reds-md)
+or individual team pages: 
+[[./chicago-cubs]]
+[[./cincinnati-reds]]
+[[./milwaukee-brewers]]
+[[./pittsburgh-pirates]]
+[[./st.-louis-cardinals]]

@@ -21,4 +21,9 @@ PNC Park was opened in 2001 and replaced the old Three Rivers Stadium. The desig
 Having one of the newest and most modern parks doesn't necessarily translate to more attendance.  Chicago has the second oldest park and leads the division in attendance.
 
 Visit the home page [National League Central Home Page](index.md)
-or individual team pages: [Chicago Cubs](chicago-cubs.md), [Milwaukee Brewers](milwaukee-brewers.md), [St. Louis Cardinals](st.-louis-cardinals.md), [Pittsburgh Pirates](pittsburgh-pirates.md), or [Cincinnati Reds](cincinnati-reds-md)
+or individual team pages: 
+[[./chicago-cubs]]
+[[./cincinnati-reds]]
+[[./milwaukee-brewers]]
+[[./pittsburgh-pirates]]
+[[./st.-louis-cardinals]]

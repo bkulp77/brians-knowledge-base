@@ -21,4 +21,9 @@ This quote was famous from the 70's and 80's from Bob Euckers Miller Lite commer
 
 ### Exploring the Division
 Visit the home page [National League Central Home Page](index.md)
-or individual team pages: [Chicago Cubs](chicago-cubs.md), [Milwaukee Brewers](milwaukee-brewers.md), [St. Louis Cardinals](st.-louis-cardinals.md), [Pittsburgh Pirates](pittsburgh-pirates.md), or [Cincinnati Reds](cincinnati-reds-md)
+or individual team pages: 
+[[./chicago-cubs]]
+[[./cincinnati-reds]]
+[[./milwaukee-brewers]]
+[[./pittsburgh-pirates]]
+[[./st.-louis-cardinals]]
