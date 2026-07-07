@@ -5,7 +5,7 @@ Great American Ballpark replaced Riverfront Stadium in Cincinnati.  It is locate
 
 This is a famous quote from legendary player and announcer, these words are etched in giant letters into the brick office building overlooking the park.
 
-![[great-american-ballpark.jpeg]]
+![[great-american.jpeg]]
 
 ## Design and Features
 * **Power stacks, steamboat smokestacks shoot fireworks, mist, and lightup when the Reds win or hit a homerun**
