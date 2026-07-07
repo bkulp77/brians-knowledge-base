@@ -3,8 +3,7 @@ PNC Park was opened in 2001 and replaced the old Three Rivers Stadium. The desig
 
 > "It looks like they built the city around the ballpark." - Ernie Johnson TBS
 
-![PNC Ballpark](images/pnc-ballpark.jpeg)
-
+![[pnc-ballpark.jpeg]]
 
 ## Design and Features
 * **Designed with Kasota limeston, terra cotta-tiled plasters, and a green steel roof**

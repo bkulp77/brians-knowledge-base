@@ -5,7 +5,7 @@ American Family Field, formerly Miller Park is a retractable roof stadium in Mil
 
 This quote was famous from the 70's and 80's from Bob Euckers Miller Lite commercials that they put a statute of him in the location of the front row sead in section 422.
 
-![American Family Field](images/american-family-field.jpeg)
+![[american-family-field.jpeg]]
 
 ## Design and Features
 * **Iconic brick wall and ivy**

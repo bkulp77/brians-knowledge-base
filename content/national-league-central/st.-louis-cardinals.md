@@ -5,7 +5,7 @@ Busch Stadium opened up for the 2006 season replacing the previous Busch Stadium
 
 This quote is from the walk off homerun call during game 6 of the 2011 World Series at Busch Stadium.
 
-![Busch Stadium](images/busch-stadium.jpeg)
+![[bush-stadium]]
 
 
 ## Design and Features
