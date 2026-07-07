@@ -24,5 +24,5 @@ This is a great example on how spending the most money doesn't necessarily give 
 ![[cubs-mrt.jpeg]]
 ### Exploring the Division
 Visit the home page [National League Central Home Page](index.md)
-or individual team pages: [Chicago Cubs](chicago-cubs.md), [Milwaukee Brewers](milwaukee-brewers.md), [St. Louis Cardinals](st.-louis-cardinals.md), [Pittsburgh Pirates](pittsburgh-pirates.md), or [Cincinnati Reds](cincinnati-reds-md)
-[[cincinnati-reds]]
+or individual team pages: [Chicago Cubs](chicago-cubs.md), [Milwaukee Brewers](milwaukee-brewers.md), [St. Louis Cardinals](st.-louis-cardinals.md), [Pittsburgh Pirates](pittsburgh-pirates.md), or [Cincinnati Reds](cincinnati-reds.md)
+[[national-league-central/cincinnati-reds]]
