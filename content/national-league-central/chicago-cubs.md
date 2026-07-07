@@ -3,7 +3,7 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 
 > "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
 
-![Wrigley Field](images/wrigley-field.jpeg)
+![Wrigley Field](/national-league-central/images/wrigley-field.jpeg)
 
 ## Design and Features
 * **Iconic brick wall and ivy**
