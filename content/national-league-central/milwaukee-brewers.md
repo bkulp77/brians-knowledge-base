@@ -23,7 +23,8 @@ This quote was famous from the 70's and 80's from Bob Euckers Miller Lite commer
 Visit the home page [National League Central Home Page](index.md)
 or individual team pages: 
 [[./chicago-cubs]]
-[[./cincinnati-reds]]
 [[./milwaukee-brewers]]
 [[./pittsburgh-pirates]]
 [[./st.-louis-cardinals]]
+[[./cincinnati-reds]]
+
