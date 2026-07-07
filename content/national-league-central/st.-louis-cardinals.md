@@ -7,6 +7,7 @@ This quote is from the walk off homerun call during game 6 of the 2011 World Ser
 
 ![[bush-stadium.jpeg]]
 
+
 ## Design and Features
 * **Designed with brick and steel to give a timeless aesthetic**
 * **Gate 3 has an arch entrance similar to the famous arch on the Mississippi River**
