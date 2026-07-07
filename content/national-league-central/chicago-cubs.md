@@ -17,9 +17,11 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 4. PNC Park (Pittsburgh, 2001) $216 million
 5. Wrigley Field (Chicago, 1914) $250,000
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significan increase in attendance.
+This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
 
+![[cubs-ticket.pdf]]
 
+![[cubs-mrt.jpeg]]
 ### Exploring the Division
 Visit the home page [National League Central Home Page](index.md)
 or individual team pages: [Chicago Cubs](chicago-cubs.md), [Milwaukee Brewers](milwaukee-brewers.md), [St. Louis Cardinals](st.-louis-cardinals.md), [Pittsburgh Pirates](pittsburgh-pirates.md), or [Cincinnati Reds](cincinnati-reds-md)
