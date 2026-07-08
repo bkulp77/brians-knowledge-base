@@ -28,7 +28,8 @@ Visit the home page [National League Central Home Page](index.md)
 Visit the home page [National League Central Home Page](index.md)
 or individual team pages: 
 [[./chicago-cubs]]
-[[./cincinnati-reds]]
 [[./milwaukee-brewers]]
 [[./pittsburgh-pirates]]
 [[./st.-louis-cardinals]]
+[[./cincinnati-reds]]
+
