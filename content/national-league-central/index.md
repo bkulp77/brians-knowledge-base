@@ -5,4 +5,3 @@ title: National League Central
 * [Milwaukee Brewers](milwaukee-brewers.md)
 * [St. Louis Cardinals](st.-louis-cardinals.md)
 * [Pittsburgh Pirates](pittsburgh-pirates.md)
-* [Cincinnati Reds](cincinnati-reds.md)
