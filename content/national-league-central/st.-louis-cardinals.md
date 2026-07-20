@@ -12,7 +12,13 @@ This quote is from the walk off homerun call during game 6 of the 2011 World Ser
 * **Gate 3 has an arch entrance similar to the famous arch on the Mississippi River**
 * **Massive 4,800 square-foot video board**
 * **Capacity 44,383 fans**
-### Team Leaders
+
+### Statcast Homerun Factor NL Central Ballparks
+1. Great American Ballpark 135 homerun factor
+2. American Family Field 105 homerun factor
+3. Wrigley Field 100 home run factor
+4. Busch Stadium 86 homerun factor
+5. PNC Park 82 homerun factor
 
 Visit the home page [National League Central Home Page](index.md)
 or individual team pages: 
