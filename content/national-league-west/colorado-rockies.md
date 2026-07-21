@@ -1,4 +1,4 @@
-# Arizona Diamondbacks - Chase Field
+# Colorado Rockies - Coors Field
 Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
 
 > "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
