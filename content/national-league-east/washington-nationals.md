@@ -10,24 +10,23 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 * **The last MLB stadium to have lights insalled for night games**
 * **Capacity 56,000 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### Statcast Homerun Factor NL West Ballparks
+1. Citizens Bank Park: 110 homerun factor
+2. Truist Park: 105 homerun factor
+3. Nationals Park: 100 home run factor
+4. LoanDepot Park: 95 homerun factor
+5. Citi Field: 95 homerun factor
 
 
 This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [National League East Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./atlanta-braves]]
+[[./miami-marlins]]
+[[./new-york-mets]]
+[[./philadelphia-phillies]]
+[[./washington-nationals]]
