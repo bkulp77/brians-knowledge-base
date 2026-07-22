@@ -25,10 +25,10 @@ This won't be a stadium that I make it to as it is only a temporary home but I w
 
 
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [American League West Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./houston-astros]]
+[[./los-angeles-angels]]
+[[./athletics]]
+[[./seattle-mariners]]
+[[./texas-rangers]]
