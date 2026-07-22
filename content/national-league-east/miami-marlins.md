@@ -12,7 +12,7 @@ LoanDepot Park is Miami Marlins baseball park and is located 2 miles west of Dow
 * **Roof: state-of-the-art retractable roof closes in just 13 minutes**
 * **Capacity 56,000 fans**
 
-### NL West Games Played in Current Stadium
+### NL East Games Played in Current Stadium
 1. Citizens Bank Park: 1,550+
 2. Nationals Park: 1,450+
 3. Citi Field: 1,350+
