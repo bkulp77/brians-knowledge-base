@@ -11,12 +11,12 @@ Truist Field is a state-of-the-art baseball stadium that is home to the Atlanta 
 * **Layout: seating bowl is compact and gives excellent sitelines to the action with more fans closer to the field than any other ballpark.**
 * **Capacity 41,147 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### NL East Cost of Current Stadium
+1. Nationals Park: $783.9 million
+2. LoanDepot Park: $634 million
+3. Citi Field: $632 million
+4. Truist Park: $622 million
+5. Citizens Bank Park: $458 million
 
 
 I have not been to Atlanta yet but Truist Field and going to the Masters in Augusta are high on my list.
