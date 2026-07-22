@@ -1,33 +1,33 @@
 # Los Angeles Angels - Angel Stadium
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Angel Stadium also known as "The Big A" is an open-air baseball stadium that has been the home for the Angels since 1966. It is located in Anaheim, CA and is the 4th oldest ballpark in Major League Baseball. While the stadium is old it has gone through massive renovations that added rocks and waterfalls and converted it to baseball only after the NFL's Rams departure to St Louis.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "From where I'm sitting... I'd say when the Angels win the pennant. You stay out of trouble, son." - Mr. Bowman from 1994 Disney film Angels in the Outfield.
 
-![[dodger-stadium.jpeg]]
+![[angel-stadium.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **The Big A Sign: a 230-foot-tall "A" structure that has a glowing halo located in the parking lot and lights up when the Angels win**
+* **The Outfield Rock Pile: massive rock landscape in center field with a cascading waterfall and geysers that erupt after Angel homeruns**
+* **Oversized Hats: a pair of large Angels batting helmets that are in front of the main home plate plaza entrance.**
+* **Capacity 45,517 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### AL West Ball Park Capacity Leaders
+1. T-Mobile Park: 47,929
+2. Angel Stadium: 45,517
+3. Daikin Park: 41,168
+4. Globe Life Field: 40,300
+5. Sutter Health Park: 14,000
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+When I was stationed in San Diego I regularly made the 2 hour drive to Angel Stadium especially when the Seattle Mariners were in town.
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [American League West Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./houston-astros]]
+[[./los-angeles-angels]]
+[[./athletics]]
+[[./seattle-mariners]]
+[[./texas-rangers]]
