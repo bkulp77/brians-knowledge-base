@@ -3,7 +3,7 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 
 > "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
 
-![[dodger-stadium.jpeg]]
+![[citi-field.jpeg]]
 
 ## Design and Features
 * **Iconic brick wall and ivy**
@@ -22,12 +22,11 @@ This is a great example on how spending the most money doesn't necessarily give 
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [National League East Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./atlanta-braves]]
+[[./miami-marlins]]
+[[./new-york-mets]]
+[[./philadelphia-phillies]]
+[[./washington-nationals]]
