@@ -13,15 +13,14 @@ The late Padres announcer used this phrase for any spectacular plays, the phrase
 * **Gallagher Square: a grassy space beyond ceterfield that allows fans to congregate and usually has various venders for food and drinks.  It has a kids play area with a 35-foot climable bat and an off-leash dog park**
 * **Capacity 42,000 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### NL West Attendance Leaders in Current Stadium
+1. Dodger Stadium: 50,544
+2. Petco Park: 41,253
+3. Oracle Park: 36,646
+4. Coors Field: 28,287
+5. Chase Field: 28,064
 
-
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+I have been to San Diego's Petco Park many times as this is the home to the second largest Navy base in the world.
 
 ![[cubs-ticket.pdf]]
 
