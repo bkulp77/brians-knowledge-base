@@ -1,14 +1,15 @@
 # Atlanta Braves - Truist Field
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Truist Field is a state-of-the-art baseball stadium that is home to the Atlanta Braves.  It is 10 miles north of downtown Atlanta in the Cumberland neighborhood.  It opened in 2017 to replace Turner Field which was home to the Braves for only 20 seasons.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "Money will fade, only legacy and loyalty to Braves will remain." - Ozzie Albies
 
-![[dodger-stadium.jpeg]]
+![[truist-field.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **Canopy roof: one of the largest weather-resistant roof canopies in Major League Baseball providing much needed shade in the hot Georgia sun**
+* **AirPAT Field Technology: a vacuum-powered vent system under that turf that provides root warming, cooling and drainage**
+* **Layout: seating bowl is compact and gives excellent sitelines to the action with more fans closer to the field than any other ballpark.**
+* **Capacity 41,147 fans**
 
 ### NL West Games Played in Current Stadium
 1. Dodger Stadium 5,150+
@@ -18,16 +19,14 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 5. Petco Park 1,800+
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+I have not been to Atlanta yet but Truist Field and going to the Masters in Augusta are high on my list.
 
-![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [National League East Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./atlanta-braves]]
+[[./miami-marlins]]
+[[./new-york-mets]]
+[[./philadelphia-phillies]]
+[[./washington-nationals]]
