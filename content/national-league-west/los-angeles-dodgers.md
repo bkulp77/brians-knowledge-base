@@ -1,13 +1,16 @@
 # Los Angeles Dodgers - Dodger Stadium
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Dodger Stadium is a mid-century modern design located in the Chavez Ravine hillsides built in 1962 and is the third oldest stadium.  It includes scenic views of the downtown skyline and is the largest baseball only stadium in the world with a capacity of 56,000 fanes.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "In a year that has been so improbable, the impossible has happened!" - Vin Scully 
+
+The Dodgers announcer on the dramatic walk-off homerun as Kirk Gibson hobbled around the bases which is one of the most celebrated moments in baseball history.
 
 ![[dodger-stadium.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
+* **Aesthetics: known for its pastel colors and wavy roof and is considered a classic pitchers park**
+* **Views: set on the hillside and provides views of the San Gabriel Mountains and Los Angeles skyline**
+* **Concessions: know for its classic "Dodger Dog" and all you can eat section**
 * **Capacity 56,000 fans**
 
 ### NL West Games Played in Current Stadium
@@ -18,11 +21,11 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 5. Petco Park 1,800+
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+I have been to Dodger stadium many times as a kid, I most recently went during COVID in 2021 with my wife against the Chicago Cubs.
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
+
 ### Exploring the Division
 Visit the home page [National League West Home Page](index.md)
 or individual team pages: 
