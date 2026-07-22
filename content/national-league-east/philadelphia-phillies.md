@@ -1,7 +1,9 @@
 # Philadelphia Phillies - Citizens Bank Park
 Citizens Bank Park is an open air baseball stadium that is home to the Philadelphia Phillies that opened in 2004.  It is located in South Philadelphia and has great sitelines and the local culinary scence is showcased in the stadiums concessions.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "World Champions, World F***ing Champions" - Chase Utley
+
+This was the most famous quote delivered during the 2008 World Series championship celebration which cemented Chase Utley's status as a Philadelphia fold hero.
 
 ![[citizens-bank-park.jpeg]]
 
