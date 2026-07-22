@@ -1,14 +1,15 @@
 # Colorado Rockies - Coors Field
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Coors Field originally opened in 1995 as an open air retro style ballpark.  Its a baseball only facility that has a classic brick architect and due to the high altitude it was been known to give up a lot of homeruns and is not considered a pitchers ballpark.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "Hideo Nomo has done what they said could not be done... Not at Coors Field in Denver." - Vin Scully Dodgers announcer on Hideo Nomo's improbable no hitter in 1996.
 
-![[dodger-stadium.jpeg]]
+![[coors-field.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **Batter's eye and iconic water features: The batter's eye in center field features a natural mountain pine forrest and cascading waterfalls with evergreen trees to look like the Colorado landscape.**
+* **Mountain-shaped scoreboard: consisting of a massive LED scoreboard with snow-capped mountain peaks**
+* **The Sandlot Brewery: the first microbrewery located inside a MLB stadium, it is also the birthplace of Blue Moon beer.**
+* **Capacity 50,144 fans**
 
 ### NL West Games Played in Current Stadium
 1. Dodger Stadium 5,150+
@@ -18,11 +19,8 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 5. Petco Park 1,800+
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+I grew up being a Denver Broncos fan and because of John Elway so I have always wanted to make a trip to Denver.  I have only been to the airport for a layover.  I look forward to making a trip through there and getting a Blue Moon.
 
-![[cubs-ticket.pdf]]
-
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
 Visit the home page [National League West Home Page](index.md)
 or individual team pages: 
