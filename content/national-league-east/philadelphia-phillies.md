@@ -22,12 +22,11 @@ This is a great example on how spending the most money doesn't necessarily give 
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [National League East Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./atlanta-braves]]
+[[./miami-marlins]]
+[[./new-york-mets]]
+[[./philadelphia-phillies]]
+[[./washington-nationals]]
