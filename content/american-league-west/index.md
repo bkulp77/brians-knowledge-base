@@ -1,6 +1,6 @@
 title: American League West
 
-# NL East Teams
+# AL East Teams
 * [Athletics](atletics.md)
 * [Houston Astros](houston-astros.md)
 * [Los Angeles Angels](los-angeles-angels.md)
