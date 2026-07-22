@@ -1,33 +1,33 @@
 # Houston Astros - Daiken Field
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Daikin Park is a retro-modern baseball stadium with a state-of-the-art retractable roof replacing the old Astrodome in 2000. It is located in downtown Houston, Texas and blends modern structural engineering with classic 19th-centrury railway architecture with incorporating elements of the design of historic Union Station.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "High fly ball, deep left field... Good night, Houston!" - Joe Buck
 
-![[dodger-stadium.jpeg]]
+Broadcaster Joe Bucks famous walk-off call when Albert Pujols of the Stl Cardinals hit a mammoth home run into the night sky to finish off the Astros at home in the 2005 NLCS.
+
+![[daikin-park.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **The Crawford Boxes: a close-up seating area in left field that is a main home run target for right handed home run hitters**
+* **Union Station lobby: the preserved historic train depot lobby serves as the grand main entrance with a team store and cafe area**
+* **Phillips 66 Home Run Train: replica 19th-century steam locomotive that drives a 800-foot track in left field when an Astro hits a home run**
+* **Capacity 41,000 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### AL West Games Played in Current Stadium
+1. Agnel Stadium: 4,900+
+2. T-Mobile Park: 2,200+
+3. Daikin Park: 2,200+
+4. Glode Life Field: 500+
+5. Sutter Health Park: 130+
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+This is will probably be my next new stadium as I now live in Texas and this is only a 4 hour drive for me from Fort Worth.
 
-![[cubs-ticket.pdf]]
-
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [American League West Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./houston-astros]]
+[[./los-angeles-angels]]
+[[./athletics]]
+[[./seattle-mariners]]
+[[./texas-rangers]]
