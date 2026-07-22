@@ -1,4 +1,4 @@
-Athletics
+# Athletics - Sutter Health Park
 Sutter Health Park is an open-air minor league baseball stadium that is the temporary home to the Athletics who left Oakland due to a new stadium being built in Las Vegas.  They settled on Sacramento as a temporary location since they were still in the viewing area for their regional sports network contract. The stadium opened in 2000 to be home to the Sacramento River Cats and is just across the Sacramento River from the state capital building.
 
 > "We are going to embrace being here. This is a unique opportunity, and our players are going to look back and say they played in a truly intimate environment" - Mark Kotsay
