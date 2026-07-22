@@ -11,17 +11,15 @@ Oracle Park is a scenic and privately-financed baseball park that is home of the
 * **Signature food: Cha Cha Bowls, Gilroy Garlic Fries, and Dungenous crab sandwhiches**
 * **Capacity 42,000 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### Statcast Homerun Factor NL West Ballparks
+1. Dodger Stadium: 129 homerun factor
+2. Coors Field: 105 homerun factor
+3. Oracle Park: 100 home run factor
+4. Chase Field: 95 homerun factor
+5. Petco Park: 90 homerun factor
 
 
 I have yet to be at Oracle Park, the goal was to go when we were stationed in California but COVID hit for most of our 3 years there.
-
-![[cubs-ticket.pdf]]
 
 
 ### Exploring the Division
