@@ -1,33 +1,33 @@
 # Texas Rangers - Globe Life Field
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Globe Life Field is a state-of-the-art baseball stadium that has a massive retractable roof and replaced Choctaw Stadium which was home to the Rangers from 1994 to 2019. The stadium is situated right next to a new entertainment district called Texas Live featuring many bars and restaurants to visit just before going into the stadium.  It is located in Arlington texas and is climate controlled protecting fans and players from the intense Texas heat.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "If you haven't struck out against Nolan Ryan, you haven't been to the Major Leagues" - Rickey Handerson
 
-![[dodger-stadium.jpeg]]
+![[globe-life-field.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **Texas Live!: massive entertainment complex built next to the stadium with local restaurants, outdoor concert stages and a luxury hotel**
+* **The Sky Bridge: a pair of upper-level pedestrian bridges giving a birds eye view of the entire playing field**
+* **Capacity 40,300 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### Statcast Homerun Factor AL West Ballparks
+1. Globe Life Field: 115 home run factor
+2. Angel Stadium: 111 homerun factor
+3. Daikin Park: 102 home run factor
+4. Sutter Health Park: 98 home run factor
+5. T-Mobile Park: 82 home run factor
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+
+Globe Life Field is my closest stadium to where I live now, while not a Rangers fan I do go to several games a year, especially when the Mariners or Cubs are in town.
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [American League West Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./houston-astros]]
+[[./los-angeles-angels]]
+[[./athletics]]
+[[./seattle-mariners]]
+[[./texas-rangers]]
