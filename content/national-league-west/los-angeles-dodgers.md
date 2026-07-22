@@ -13,12 +13,12 @@ The Dodgers announcer on the dramatic walk-off homerun as Kirk Gibson hobbled ar
 * **Concessions: know for its classic "Dodger Dog" and all you can eat section**
 * **Capacity 56,000 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### NL East Ballpark Capacity Leaders in Current Stadium
+1. Dodger Stadium: 56,000
+2. Chase Field: 48,330
+3. Coors Field: 46,897
+4. Oracle Field: 41,331
+5. Petco Park: 39,860
 
 
 I have been to Dodger stadium many times as a kid, I most recently went during COVID in 2021 with my wife against the Chicago Cubs.
