@@ -10,12 +10,12 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 * **The last MLB stadium to have lights insalled for night games**
 * **Capacity 56,000 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### AL West Cost of Current Stadium
+1. Globe Life Field: $1.2 billion
+2. T-Mobile Park: $517 million
+3. Daikin Park: $250 million
+4. Sutter Health Park: $46.5 million
+5. Angel Stadium: $25 million
 
 
 This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
