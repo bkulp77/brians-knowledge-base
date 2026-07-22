@@ -14,7 +14,7 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 1. Citizens Bank Park: 42,901
 2. Citi Field: 41,922
 3. Nationals Park: 41,373
-4. Truist Park: 41, 084
+4. Truist Park: 41,084
 5. LoanDepot Park: 36,742
 
 
