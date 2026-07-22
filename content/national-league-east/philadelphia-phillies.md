@@ -1,14 +1,15 @@
 # Philadelphia Phillies - Citizens Bank Park
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Citizens Bank Park is an open air baseball stadium that is home to the Philadelphia Phillies that opened in 2004.  It is located in South Philadelphia and has great sitelines and the local culinary scence is showcased in the stadiums concessions.
 
 > "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
 
-![[dodger-stadium.jpeg]]
+![[citizens-bank-park.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **Liberty Bell: a 50-foot-tall replica of the actual Liberty Bell is located in the outfield and glows with LED lights and rings when a Phillies player hits a homerun**
+* **Ashburn Alley: an interactive outfield entertainment street showing historical displays, team memorabilia and local dining**
+* **The Yard: a kids area with a backyard sized Wiffle ball field, radar-gun speed pitch, and a hot dog launcher**
+* **Capacity 42,901 fans**
 
 ### National League East Attendance Leaders (2025)
 1. Citizens Bank Park: 3,375,477
@@ -18,7 +19,7 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 5. LoanDepot Park: 1,156,427
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+I have been to a few games here, when I was stationed in Norfolk, VA i would stop here on my way to New Jersey to visit family.
 
 ![[cubs-ticket.pdf]]
 
