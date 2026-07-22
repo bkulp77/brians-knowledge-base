@@ -1,28 +1,30 @@
 # Arizona Diamondbacks - Chase Field
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Chase Field is located in downtown Phoenix and has a retractable roof that allows for comfortable air conditioned baseball in the hot Arizona desert while still allowing to open up to the outside air on cool spring and fall nights. It originally opened up as Bank One Ballpark in 1998 and was referred to as "The BOB".
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "Snakes alive!" - Diamonbacks Fans
 
-![[dodger-stadium.jpeg]]
+This motto came about during the Diamondbacks playoff runs in the 2000s and has stuck as a rally cry.
+
+![[chase-field.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **Swimming pool located in right center field in a 35 person luxury suite that can be rented by fans**
+* **Petsmart Patio, allows fans to bring their dogs to designated games**
+* **Four Peaks Draft Room, an upscale bar and draft house that offers great views and craft cocktails and beer for purchase**
+* **Capacity 48,633 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### NL West Cost of Current Stadium
+1. Petco Park $474 million
+2. Chase Field $354 million
+3. Oracle Park $255 million
+4. Coors Field $215 million
+5. Dodger Stadium $23 million
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+I have yet to be able to attend a game at this stadium even though I have been in Phoenix numerous times, timing didn't work out for attending yet.
 
-![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
+
 ### Exploring the Division
 Visit the home page [National League West Home Page](index.md)
 or individual team pages: 
