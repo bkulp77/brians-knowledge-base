@@ -1,14 +1,15 @@
 # San Francisco Giants - Oracle Field
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Oracle Park is a scenic and privately-financed baseball park that is home of the San Francisco Giants.  It opened in 2000 and has views of the San Francisco Bay, McCovey Cove and a giant Coca-Cola bottle slide.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "One day if I go to heaven, I'll look around and say, "it ain't bad, but it ain't San Francisco"" - Herb Caen
 
-![[dodger-stadium.jpeg]]
+![[oracle-park.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **McCovey Cove: this body of water is just past the right field wall and is famous for being full of people in kayaks and boats to catch homerun balls that leave the park**
+* **Scoreboard: features a giant 10,7000 square-foot 4k scoreboard in center field**
+* **Signature food: Cha Cha Bowls, Gilroy Garlic Fries, and Dungenous crab sandwhiches**
+* **Capacity 42,000 fans**
 
 ### NL West Games Played in Current Stadium
 1. Dodger Stadium 5,150+
@@ -18,11 +19,11 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 5. Petco Park 1,800+
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+I have yet to be at Oracle Park, the goal was to go when we were stationed in California but COVID hit for most of our 3 years there.
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
+
 ### Exploring the Division
 Visit the home page [National League West Home Page](index.md)
 or individual team pages: 
