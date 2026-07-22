@@ -22,6 +22,7 @@ This is a great example on how spending the most money doesn't necessarily give 
 ![[cubs-ticket.pdf]]
 
 ![[cubs-mrt.jpeg]]
+
 ### Exploring the Division
 Visit the home page [National League Central Home Page](index.md)
 or individual team pages: 
