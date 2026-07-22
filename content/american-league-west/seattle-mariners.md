@@ -1,33 +1,35 @@
-# Seattle Mariners - Tmobile Park
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+# Seattle Mariners - T-Mobile Park
+T-Mobile Park is a retro-modern baseball stadium with a retractable roof that replaced the Kingdome in 1999 as the Seattle Mariners home.  It is located in Seattle's SoDo neighborhood just south of downtown.  It is known for it's classic brick architecture and great sitelines and revamping the way teams view concessions by having iconic food from the Pacific Northwest available for purchase such as sushi, slamon, clam chowder and other items not normally associated with sports concessions.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "Grandma, get out the rye bread and the mustard, it is grand salami time!" - Dave Niehaus
 
-![[dodger-stadium.jpeg]]
+Mariners announcers signature homerun call for grand slams, orignated in the Kingdome but was used during his time as announce in T-Mobile park.
+
+![[t-mobile-park.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **Statute of the Kid: a bronze statute of Mariner great Ken Griffey Jr standing outside the homeplate entrance, he is posed doing his iconic swing**
+* **The Pen: an open air sports bar area in the outfield right behind the bullpen allowing fans to drink craft beer and watch pitchers warmup while still having a great view of the game**
+* **Retractable Roof: a 9-acre structure that acts as an umbrella rather than a climate controlled roof to keep fans and the field dry during rainy days.
+* **Capacity 47,929 fans**
 
-### NL West Games Played in Current Stadium
-1. Dodger Stadium 5,150+
-2. Coors Field 2,500+
-3. Chase Field 2,200+
-4. Oracle Park 2,120+
-5. Petco Park 1,800+
+### American League West Attendance Leaders (2025)
+1. Daikin Park: 2,727,877
+2. Angel Stadium: 2,615,506
+3. T-Mobile Park: 2,538,053
+4. Globe Life Field: 2,397,071
+5. Sutter Health Park: 768,464
 
 
-This is a great example on how spending the most money doesn't necessarily give you the nicest park or translate to a significant increase in attendance.
+This is where I'm from so I have been to more Mariners games than any other team.  Every chance I get to go home in the summer I go to as many games as possible.
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
 ### Exploring the Division
-Visit the home page [National League West Home Page](index.md)
+Visit the home page [American League West Home Page](index.md)
 or individual team pages: 
-[[./los-angeles-dodgers]]
-[[./arizona-diamondbacks]]
-[[./san-diego-padres]]
-[[./san-francisco-giants]]
-[[./colorado-rockies]]
+[[./houston-astros]]
+[[./los-angeles-angels]]
+[[./athletics]]
+[[./seattle-mariners]]
+[[./texas-rangers]]
