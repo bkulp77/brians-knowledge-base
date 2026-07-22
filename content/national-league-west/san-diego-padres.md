@@ -1,14 +1,17 @@
 # San Diego Padres - Petco Park
-Wrigley Field was originally called Weeghman Park and was for the Chicago Whales of the Federal League.  It didn't become the home to the Cubs until 1916 and in 1926 it was renamed Wrigley Field.
+Petco Park is an open air baseball stadium located in downtown San Diego.  It has modern architecture that has the historic Western Metal Supply Co building in the left field foul line much like the wharehouse in Camden Yards in Baltimore.  It opened in 2004 and seats 42,000 fans.
 
-> "She stands alone at the corner of Clark and Addison, this dowager queen, dressed in basic black and pearls... awaiting yet another date with destiny, another time for Mr. Right." - George F. Will
+> "Oh Doctor! You can hang a star on that baby!" - Jerry Coleman
 
-![[dodger-stadium.jpeg]]
+The late Padres announcer used this phrase for any spectacular plays, the phrase is permanetly immortalized with a star on the press box wall in Petco Park.
+
+![[petco-park.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
-* **Capacity 56,000 fans**
+* **Beach: a viewing and seating area in right-field that as actual sand, allowing fans to watch the game or batting practice with their toes in the sane**
+* **Fan amenities: Every year it is voted one of the top stadiums due the the city views, local food vendors and craft beers**
+* **Gallagher Square: a grassy space beyond ceterfield that allows fans to congregate and usually has various venders for food and drinks.  It has a kids play area with a 35-foot climable bat and an off-leash dog park**
+* **Capacity 42,000 fans**
 
 ### NL West Games Played in Current Stadium
 1. Dodger Stadium 5,150+
@@ -22,7 +25,7 @@ This is a great example on how spending the most money doesn't necessarily give 
 
 ![[cubs-ticket.pdf]]
 
-![[cubs-mrt.jpeg]]
+
 ### Exploring the Division
 Visit the home page [National League West Home Page](index.md)
 or individual team pages: 
