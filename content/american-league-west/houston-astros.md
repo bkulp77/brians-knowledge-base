@@ -14,7 +14,7 @@ Broadcaster Joe Bucks famous walk-off call when Albert Pujols of the Stl Cardina
 * **Capacity 41,000 fans**
 
 ### AL West Games Played in Current Stadium
-1. Agnel Stadium: 4,900+
+1. Angel Stadium: 4,900+
 2. T-Mobile Park: 2,200+
 3. Daikin Park: 2,200+
 4. Glode Life Field: 500+
