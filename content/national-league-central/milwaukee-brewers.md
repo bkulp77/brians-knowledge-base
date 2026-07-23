@@ -8,8 +8,9 @@ This quote was famous from the 70's and 80's from Bob Eucker's Miller Lite comme
 ![[american-family-field.jpeg]]
 
 ## Design and Features
-* **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights installed for night games**
+* **Retractable roof: has a unique fan shaped design that opens and closes in less than 10 minutes**
+* **Tailgates: known for it's extensive tailgates before the games in the parking lots**
+* **Bernie's Chalet: a giant slide that the Brewer's mascot Bernie slides down after each Brewers home run**
 * **Capacity 41,900 fans**
 
 ### NL Central Ball Park Capacity Leaders
