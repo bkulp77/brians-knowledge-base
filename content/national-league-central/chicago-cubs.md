@@ -7,7 +7,7 @@ Wrigley Field was originally called Weeghman Park and was for the Chicago Whales
 
 ## Design and Features
 * **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
+* **The last MLB stadium to have lights installed for night games**
 * **Capacity 41,649 fans**
 
 ### NL Central Stadium Cost

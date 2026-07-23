@@ -3,14 +3,14 @@ Petco Park is an open air baseball stadium located in downtown San Diego.  It ha
 
 > "Oh Doctor! You can hang a star on that baby!" - Jerry Coleman
 
-The late Padres announcer used this phrase for any spectacular plays, the phrase is permanetly immortalized with a star on the press box wall in Petco Park.
+The late Padres announcer used this phrase for any spectacular plays, the phrase is permanently immortalized with a star on the press box wall in Petco Park.
 
 ![[petco-park.jpeg]]
 
 ## Design and Features
 * **Beach: a viewing and seating area in right-field that as actual sand, allowing fans to watch the game or batting practice with their toes in the sane**
 * **Fan amenities: Every year it is voted one of the top stadiums due the the city views, local food vendors and craft beers**
-* **Gallagher Square: a grassy space beyond ceterfield that allows fans to congregate and usually has various venders for food and drinks.  It has a kids play area with a 35-foot climable bat and an off-leash dog park**
+* **Gallagher Square: a grassy space beyond center field that allows fans to congregate and usually has various venders for food and drinks.  It has a kids play area with a 35-foot climbable bat and an off-leash dog park**
 * **Capacity 42,000 fans**
 
 ### NL West Attendance Leaders in 2025

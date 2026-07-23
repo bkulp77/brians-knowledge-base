@@ -1,5 +1,5 @@
 # Colorado Rockies - Coors Field
-Coors Field originally opened in 1995 as an open air retro style ballpark.  Its a baseball only facility that has a classic brick architect and due to the high altitude it was been known to give up a lot of homeruns and is not considered a pitchers ballpark.
+Coors Field originally opened in 1995 as an open air retro style ballpark.  Its a baseball only facility that has a classic brick architect and due to the high altitude it was been known to give up a lot of home runs and is not considered a pitchers ballpark.
 
 > "Hideo Nomo has done what they said could not be done... Not at Coors Field in Denver." - Vin Scully Dodgers announcer on Hideo Nomo's improbable no hitter in 1996.
 

@@ -1,7 +1,7 @@
 # Miami Marlins - LoadDepot Park
 LoanDepot Park is Miami Marlins baseball park and is located 2 miles west of Downtown Miami on the site of the old Miami Orange Bowl.  The stadium replaces the former multipurpose Joe Robbie Stadium that they initially shared with the Miami Dolphins and contains the fastest retractable roof in baseball.
 
-> "Miami is a spectacular city, looking ahead. We need to be looking forward. I'd like to see us build a great, 'contemporty' building" - Miami Marlins owner Jeffrey Loria
+> "Miami is a spectacular city, looking ahead. We need to be looking forward. I'd like to see us build a great, 'contemporary' building" - Miami Marlins owner Jeffrey Loria
 
 ![[loandepot-park.jpeg]]
 

@@ -1,5 +1,5 @@
 # Philadelphia Phillies - Citizens Bank Park
-Citizens Bank Park is an open air baseball stadium that is home to the Philadelphia Phillies that opened in 2004.  It is located in South Philadelphia and has great sitelines and the local culinary scence is showcased in the stadiums concessions.
+Citizens Bank Park is an open air baseball stadium that is home to the Philadelphia Phillies that opened in 2004.  It is located in South Philadelphia and has great site lines and the local culinary scence is showcased in the stadiums concessions.
 
 > "World Champions, World F***ing Champions" - Chase Utley
 
@@ -8,7 +8,7 @@ This was the most famous quote delivered during the 2008 World Series championsh
 ![[citizens-bank-park.jpeg]]
 
 ## Design and Features
-* **Liberty Bell: a 50-foot-tall replica of the actual Liberty Bell is located in the outfield and glows with LED lights and rings when a Phillies player hits a homerun**
+* **Liberty Bell: a 50-foot-tall replica of the actual Liberty Bell is located in the outfield and glows with LED lights and rings when a Phillies player hits a home run**
 * **Ashburn Alley: an interactive outfield entertainment street showing historical displays, team memorabilia and local dining**
 * **The Yard: a kids area with a backyard sized Wiffle ball field, radar-gun speed pitch, and a hot dog launcher**
 * **Capacity 42,901 fans**

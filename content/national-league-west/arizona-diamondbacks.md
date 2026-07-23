@@ -1,7 +1,7 @@
 # Arizona Diamondbacks - Chase Field
 Chase Field is located in downtown Phoenix and has a retractable roof that allows for comfortable air conditioned baseball in the hot Arizona desert while still allowing to open up to the outside air on cool spring and fall nights. It originally opened up as Bank One Ballpark in 1998 and was referred to as "The BOB".
 
-> "Snakes alive!" - Diamonbacks Fans
+> "Snakes alive!" - Diamondbacks Fans
 
 This motto came about during the Diamondbacks playoff runs in the 2000s and has stuck as a rally cry.
 

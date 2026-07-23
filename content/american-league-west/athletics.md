@@ -3,13 +3,13 @@ Sutter Health Park is an open-air minor league baseball stadium that is the temp
 
 > "We are going to embrace being here. This is a unique opportunity, and our players are going to look back and say they played in a truly intimate environment" - Mark Kotsay
 
-A's manager highlighting the postive outlook that the team maintained when settling for a minor league baseball stadium as their temporary home while their new state-of-the-art stadium is being built in Las Vegas.
+A's manager highlighting the positive outlook that the team maintained when settling for a minor league baseball stadium as their temporary home while their new state-of-the-art stadium is being built in Las Vegas.
 
 ![[sutter-health-park.jpeg]]
 
 ## Design and Features
-* **Toyota Home Run Terrace: a grass berm seating area where fans can put out blankets and chase homerun balls just beyong the outfield fence**
-* **Tower Bridge View: a view of Sacromento's iconic gold-painted Tower Bridge beyond the right-center wall**
+* **Toyota Home Run Terrace: a grass berm seating area where fans can put out blankets and chase home run balls just beyond the outfield fence**
+* **Tower Bridge View: a view of Sacramento's iconic gold-painted Tower Bridge beyond the right-center wall**
 * **Major League Upgrades: received millions of dollars in renovations including new clubhouses, weight rooms, and premium seating**
 * **Capacity 14,014 fans**
 

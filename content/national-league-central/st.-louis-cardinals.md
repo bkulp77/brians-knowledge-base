@@ -3,7 +3,7 @@ Busch Stadium opened up for the 2006 season replacing the previous Busch Stadium
 
 > "Freese hits it in the air to center... We will see you tomorrow night!" - Joe Buck
 
-This quote is from the walk off homerun call during game 6 of the 2011 World Series at Busch Stadium.
+This quote is from the walk off home run call during game 6 of the 2011 World Series at Busch Stadium.
 
 ![[busch-stadium.jpeg]]
 
@@ -14,11 +14,11 @@ This quote is from the walk off homerun call during game 6 of the 2011 World Ser
 * **Capacity 44,383 fans**
 
 ### Statcast Homerun Factor NL Central Ballparks
-1. Great American Ballpark 135 homerun factor
-2. American Family Field 105 homerun factor
+1. Great American Ballpark 135 home run factor
+2. American Family Field 105 home run factor
 3. Wrigley Field 100 home run factor
-4. Busch Stadium 86 homerun factor
-5. PNC Park 82 homerun factor
+4. Busch Stadium 86 home run factor
+5. PNC Park 82 home run factor
 
 Visit the home page [National League Central Home Page](index.md)
 or individual team pages: 

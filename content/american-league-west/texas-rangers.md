@@ -1,7 +1,7 @@
 # Texas Rangers - Globe Life Field
 Globe Life Field is a state-of-the-art baseball stadium that has a massive retractable roof and replaced Choctaw Stadium which was home to the Rangers from 1994 to 2019. The stadium is situated right next to a new entertainment district called Texas Live featuring many bars and restaurants to visit just before going into the stadium.  It is located in Arlington texas and is climate controlled protecting fans and players from the intense Texas heat.
 
-> "If you haven't struck out against Nolan Ryan, you haven't been to the Major Leagues" - Rickey Handerson
+> "If you haven't struck out against Nolan Ryan, you haven't been to the Major Leagues" - Rickey Henderson
 
 ![[globe-life-field.jpeg]]
 
@@ -12,7 +12,7 @@ Globe Life Field is a state-of-the-art baseball stadium that has a massive retra
 
 ### Statcast Homerun Factor AL West Ballparks
 1. Globe Life Field: 115 home run factor
-2. Angel Stadium: 111 homerun factor
+2. Angel Stadium: 111 home run factor
 3. Daikin Park: 102 home run factor
 4. Sutter Health Park: 98 home run factor
 5. T-Mobile Park: 82 home run factor

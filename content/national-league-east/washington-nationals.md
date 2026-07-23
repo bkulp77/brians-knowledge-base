@@ -8,17 +8,17 @@ Franchise icon Ryan Zimmerman after winning the 2019 World Series
 ![[nationals-park.jpeg]]
 
 ## Design and Features
-* **The Racing Presidents: a mid-4th innning tradition that giant headed mascots of former presidents race along the warning track**
+* **The Racing Presidents: a mid-4th inning tradition that giant headed mascots of former presidents race along the warning track**
 * **Leed Silver Certified: first completely green and environmentally sustainable stadium in professional sports**
 * **The Griffith Notch: a right-angled jog in left-center field wall that pays tribute to Griffith Stadium**
 * **Capacity 41,546 fans**
 
 ### Statcast Homerun Factor NL East Ballparks
-1. Citizens Bank Park: 110 homerun factor
-2. Truist Park: 105 homerun factor
+1. Citizens Bank Park: 110 home run factor
+2. Truist Park: 105 home run factor
 3. Nationals Park: 100 home run factor
-4. LoanDepot Park: 95 homerun factor
-5. Citi Field: 95 homerun factor
+4. LoanDepot Park: 95 home run factor
+5. Citi Field: 95 home run factor
 
 
 I went to first official game at this stadium when it opened in 2008 and saw President George Bush throw out the first pitch.

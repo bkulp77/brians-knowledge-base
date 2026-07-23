@@ -7,7 +7,7 @@ Angel Stadium also known as "The Big A" is an open-air baseball stadium that has
 
 ## Design and Features
 * **The Big A Sign: a 230-foot-tall "A" structure that has a glowing halo located in the parking lot and lights up when the Angels win**
-* **The Outfield Rock Pile: massive rock landscape in center field with a cascading waterfall and geysers that erupt after Angel homeruns**
+* **The Outfield Rock Pile: massive rock landscape in center field with a cascading waterfall and geysers that erupt after Angel home runs**
 * **Oversized Hats: a pair of large Angels batting helmets that are in front of the main home plate plaza entrance.**
 * **Capacity 45,517 fans**
 

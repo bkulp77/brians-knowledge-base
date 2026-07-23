@@ -8,7 +8,7 @@ Truist Field is a state-of-the-art baseball stadium that is home to the Atlanta 
 ## Design and Features
 * **Canopy roof: one of the largest weather-resistant roof canopies in Major League Baseball providing much needed shade in the hot Georgia sun**
 * **AirPAT Field Technology: a vacuum-powered vent system under that turf that provides root warming, cooling and drainage**
-* **Layout: seating bowl is compact and gives excellent sitelines to the action with more fans closer to the field than any other ballpark.**
+* **Layout: seating bowl is compact and gives excellent site lines to the action with more fans closer to the field than any other ballpark.**
 * **Capacity 41,147 fans**
 
 ### NL East Cost of Current Stadium

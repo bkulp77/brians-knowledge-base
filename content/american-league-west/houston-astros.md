@@ -1,9 +1,9 @@
 # Houston Astros - Daiken Field
-Daikin Park is a retro-modern baseball stadium with a state-of-the-art retractable roof replacing the old Astrodome in 2000. It is located in downtown Houston, Texas and blends modern structural engineering with classic 19th-centrury railway architecture with incorporating elements of the design of historic Union Station.
+Daikin Park is a retro-modern baseball stadium with a state-of-the-art retractable roof replacing the old Astrodome in 2000. It is located in downtown Houston, Texas and blends modern structural engineering with classic 19th-century railway architecture with incorporating elements of the design of historic Union Station.
 
 > "High fly ball, deep left field... Good night, Houston!" - Joe Buck
 
-Broadcaster Joe Bucks famous walk-off call when Albert Pujols of the Stl Cardinals hit a mammoth home run into the night sky to finish off the Astros at home in the 2005 NLCS.
+Broadcaster Joe Bucks famous walk-off call when Albert Pujols of the Stl Cardinals hit a mammoth home run into the night sky to finish off the Astro's at home in the 2005 NLCS.
 
 ![[daikin-park.jpeg]]
 

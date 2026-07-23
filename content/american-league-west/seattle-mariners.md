@@ -1,14 +1,14 @@
 # Seattle Mariners - T-Mobile Park
-T-Mobile Park is a retro-modern baseball stadium with a retractable roof that replaced the Kingdome in 1999 as the Seattle Mariners home.  It is located in Seattle's SoDo neighborhood just south of downtown.  It is known for it's classic brick architecture and great sitelines and revamping the way teams view concessions by having iconic food from the Pacific Northwest available for purchase such as sushi, slamon, clam chowder and other items not normally associated with sports concessions.
+T-Mobile Park is a retro-modern baseball stadium with a retractable roof that replaced the Kingdome in 1999 as the Seattle Mariners home.  It is located in Seattle's SoDo neighborhood just south of downtown.  It is known for it's classic brick architecture and great site lines and revamping the way teams view concessions by having iconic food from the Pacific Northwest available for purchase such as sushi, salmon, clam chowder and other items not normally associated with sports concessions.
 
 > "Grandma, get out the rye bread and the mustard, it is grand salami time!" - Dave Niehaus
 
-Mariners announcers signature homerun call for grand slams, orignated in the Kingdome but was used during his time as announce in T-Mobile park.
+Mariners announcers signature home run call for grand slams, originated in the Kingdome but was used during his time as announce in T-Mobile park.
 
 ![[t-mobile-park.jpeg]]
 
 ## Design and Features
-* **Statute of the Kid: a bronze statute of Mariner great Ken Griffey Jr standing outside the homeplate entrance, he is posed doing his iconic swing**
+* **Statute of the Kid: a bronze statute of Mariner great Ken Griffey Jr standing outside the home plate entrance, he is posed doing his iconic swing**
 * **The Pen: an open air sports bar area in the outfield right behind the bullpen allowing fans to drink craft beer and watch pitchers warmup while still having a great view of the game**
 * **Retractable Roof: a 9-acre structure that acts as an umbrella rather than a climate controlled roof to keep fans and the field dry during rainy days.
 * **Capacity 47,929 fans**

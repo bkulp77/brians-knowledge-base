@@ -8,7 +8,7 @@ This quote is engraved in the upper ring of Jackie Robinson Rotunda which serves
 ![[citi-field.jpeg]]
 
 ## Design and Features
-* **Green architecture: faclity built with eco-friendly elements, permeable pavers, high mast lighting, and dark sky compliant**
+* **Green architecture: facility built with eco-friendly elements, permeable pavers, high mast lighting, and dark sky compliant**
 * **Open concourses: designed as a 360 degree open air concourse to allow continuous views while walking the stadium**
 * **Vertically stacked seating: this creates a steep seating bowl but reduces obstructed views**
 * **Capacity 41,922 fans**

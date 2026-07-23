@@ -3,7 +3,7 @@ Dodger Stadium is a mid-century modern design located in the Chavez Ravine hills
 
 > "In a year that has been so improbable, the impossible has happened!" - Vin Scully 
 
-The Dodgers announcer on the dramatic walk-off homerun as Kirk Gibson hobbled around the bases which is one of the most celebrated moments in baseball history.
+The Dodgers announcer on the dramatic walk-off home run as Kirk Gibson hobbled around the bases which is one of the most celebrated moments in baseball history.
 
 ![[dodger-stadium.jpeg]]
 

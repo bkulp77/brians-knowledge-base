@@ -8,7 +8,7 @@ This is a famous quote from legendary player and announcer, these words are etch
 ![[great-american.jpeg]]
 
 ## Design and Features
-* **Power stacks, steamboat smokestacks shoot fireworks, mist, and lightup when the Reds win or hit a homerun**
+* **Power stacks, steamboat smokestacks shoot fireworks, mist, and light up when the Reds win or hit a home run**
 * **Hitter friendly dimensions, only 328 to left field wall and 325 to right field**
 * **Capacity 43,500 fans**
 

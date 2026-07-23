@@ -6,17 +6,17 @@ Oracle Park is a scenic and privately-financed baseball park that is home of the
 ![[oracle-park.jpeg]]
 
 ## Design and Features
-* **McCovey Cove: this body of water is just past the right field wall and is famous for being full of people in kayaks and boats to catch homerun balls that leave the park**
+* **McCovey Cove: this body of water is just past the right field wall and is famous for being full of people in kayaks and boats to catch home run balls that leave the park**
 * **Scoreboard: features a giant 10,7000 square-foot 4k scoreboard in center field**
-* **Signature food: Cha Cha Bowls, Gilroy Garlic Fries, and Dungenous crab sandwhiches**
+* **Signature food: Cha Cha Bowls, Gilroy Garlic Fries, and Dungeness crab sandwiches**
 * **Capacity 42,000 fans**
 
 ### Statcast Homerun Factor NL West Ballparks
-1. Dodger Stadium: 129 homerun factor
-2. Coors Field: 105 homerun factor
+1. Dodger Stadium: 129 home run factor
+2. Coors Field: 105 home run factor
 3. Oracle Park: 100 home run factor
-4. Chase Field: 95 homerun factor
-5. Petco Park: 90 homerun factor
+4. Chase Field: 95 home run factor
+5. Petco Park: 90 home run factor
 
 
 I have yet to be at Oracle Park, the goal was to go when we were stationed in California but COVID hit for most of our 3 years there.

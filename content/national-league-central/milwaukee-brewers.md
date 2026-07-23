@@ -3,13 +3,13 @@ American Family Field, formerly Miller Park is a retractable roof stadium in Mil
 
 > "I must be in the front row!" - Bob Uecker
 
-This quote was famous from the 70's and 80's from Bob Euckers Miller Lite commercials that they put a statute of him in the location of the front row sead in section 422.
+This quote was famous from the 70's and 80's from Bob Eucker's Miller Lite commercials that they put a statute of him in the location of the front row seat in section 422.
 
 ![[american-family-field.jpeg]]
 
 ## Design and Features
 * **Iconic brick wall and ivy**
-* **The last MLB stadium to have lights insalled for night games**
+* **The last MLB stadium to have lights installed for night games**
 * **Capacity 41,900 fans**
 
 ### NL Central Ball Park Capacity Leaders
