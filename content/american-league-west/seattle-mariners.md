@@ -23,7 +23,7 @@ Mariners announcers signature home run call for grand slams, originated in the K
 
 This is where I'm from so I have been to more Mariners games than any other team.  Every chance I get to go home in the summer I go to as many games as possible.
 
-![[cubs-ticket.pdf]]
+![[mariners-ticket.jpg]]
 
 ### Exploring the Division
 Visit the home page [American League West Home Page](index.md)
