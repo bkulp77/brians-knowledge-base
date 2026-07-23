@@ -20,6 +20,8 @@ This quote was famous from the 70's and 80's from Bob Eucker's Miller Lite comme
 4. Wrigley Field 41,649
 5. PNC Park 38,747
 
+![[brewers-ticket.pdf]]
+
 ### Exploring the Division
 Visit the home page [National League Central Home Page](index.md)
 or individual team pages: 
